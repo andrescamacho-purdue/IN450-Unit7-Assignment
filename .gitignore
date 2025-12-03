@@ -1,0 +1,5 @@
+*.docx
+*.doc
+.DS_Store
+__MACOSX/
+~$*
